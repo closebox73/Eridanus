@@ -7,6 +7,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
+#### [Pollux](/Pollux) theme
+
+![](/Pollux/preview.png)
 #### [Castor](/Castor) theme
 
 ![](/Castor/preview.png)
