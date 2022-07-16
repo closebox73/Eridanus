@@ -40,7 +40,6 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Fornax](/Fornax) theme
 
 ![](/Fornax/preview.png)
-- Wallpaper [Here](https://unsplash.com/photos/9AmKnNZw3GA)
 #### [Deneb](/Deneb) theme
 
 ![](/Deneb/preview.png)
