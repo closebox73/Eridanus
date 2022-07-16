@@ -23,6 +23,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Cursa](/Cursa) theme
 
 ![](/Cursa/preview.png)
+- Color1 is the accent color
+- You can change the rectangular background by execute
+	```bash
+		convert -size 50x50 xc:#HEXCODE ~/.config/conky/Cursa/res/bg.png
+	```
 #### [Zaurak](/Zaurak) theme
 
 ![](/Asset/zaurak.png)
